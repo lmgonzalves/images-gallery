@@ -2,6 +2,7 @@
 
 Images Gallery using PixiJS and WebGL
 
+- **Tutorial**: Coming soon!
 - **Demo**: [https://lmgonzalves.github.io/images-gallery/](https://lmgonzalves.github.io/images-gallery/)
 - **Codepen**: [https://codepen.io/lmgonzalves/pen/oRdwQJ](https://codepen.io/lmgonzalves/pen/oRdwQJ)
 
