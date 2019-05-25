@@ -1,0 +1,32 @@
+{
+  "name": "images-gallery",
+  "version": "0.0.1",
+  "description": "Images Gallery using PixiJS and WebGL",
+  "main": "js/scripts.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lmgonzalves/images-gallery.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "animation",
+    "webgl"
+  ],
+  "author": "lmgonzalves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmgonzalves/images-gallery/issues"
+  },
+  "homepage": "https://github.com/lmgonzalves/images-gallery",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
