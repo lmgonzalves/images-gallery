@@ -2,7 +2,7 @@
 
 Images Gallery using PixiJS and WebGL
 
-- **Tutorial**: Coming soon!
+- **Tutorial**: [https://css-tricks.com/building-an-images-gallery-using-pixijs-and-webgl/](https://css-tricks.com/building-an-images-gallery-using-pixijs-and-webgl/)
 - **Demo**: [https://lmgonzalves.github.io/images-gallery/](https://lmgonzalves.github.io/images-gallery/)
 - **Codepen**: [https://codepen.io/lmgonzalves/pen/oRdwQJ](https://codepen.io/lmgonzalves/pen/oRdwQJ)
 
